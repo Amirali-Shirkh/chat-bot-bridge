@@ -1,2 +1,2 @@
-# chat-bot-jack
+# chat-bot-bridge
 
